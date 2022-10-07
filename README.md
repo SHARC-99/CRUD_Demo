@@ -2,10 +2,8 @@
 ![image](https://user-images.githubusercontent.com/46630470/194399184-5bbca![image](https://user-images.githubusercontent.com/46630470/194399469-d80bbdf8-7652-45d8-a22d-3a7c288dd671.png)365-e480-47c8-b22f-897e39a0ad42.png)
 ![image](https://user-images.githubusercontent.com/46630470/194399242-424e7ff5-ec00-4e94-8c10-505f43c796af.png)
 ![image](https://user-images.githubusercontent.com/46630470/194399603-3e832607-badb-4d23-8b82-66ecded975e5.png)![image](https://user-images.githubusercontent.com/46630470/194399661-956e21db-1a22-4688-9674-09a4cd6f3b31.png)
-
 ![image](https://user-images.githubusercontent.com/46630470/194399739-06213ac6-c742-41d7-99a2-ebf99e014344.png)
 ![Uploading image.png…]()
-
 ![Uploading image.png…]()
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.2.
